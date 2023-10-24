@@ -1,2 +1,2 @@
 # stats_medical
- stats with python and MR
+ stats with python and R
